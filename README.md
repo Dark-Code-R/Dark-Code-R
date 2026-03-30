@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="Banner-Rodrigo.png" width="100%" />
+</p>>
 <h1 align="center">Hola, soy Rodrigo 👋</h1>
 <h3 align="center">💻 Desarrollador Full Stack | IA | Automatización | Ciberseguridad</h3>
 
